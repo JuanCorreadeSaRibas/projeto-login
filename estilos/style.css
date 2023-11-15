@@ -63,6 +63,7 @@ div#formulario > h1{
 }
 
 div#formulario > p{
+    text-indent: 5px;
     font-size: 0.8em;
 }
 
@@ -101,7 +102,7 @@ div.campo > label{
     display: none;
 }
 
-/* botão d entrar */
+/* botão de entrar */
 
 div#formulario a.botao{
     color: #ffffff;
